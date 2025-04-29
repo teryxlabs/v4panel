@@ -1,0 +1,33 @@
+DragonLabs MIT+ License
+Copyright © 2025 Hopingboyz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to:
+
+✅ Use – Run the Software for any purpose.
+✅ Copy – Reproduce the Software.
+✅ Modify – Create derivative works.
+✅ Merge – Combine with other software.
+✅ Publish – Share publicly.
+✅ Distribute – Redistribute copies.
+✅ Sublicense – Allow others to use under different terms.
+✅ Sell – Commercialize the Software.
+
+Conditions:
+
+Retain Attribution – The above copyright notice, this permission notice, and any prominent credits (e.g., in UI/docs) must be included in all copies or substantial portions.
+
+State Changes – Modified versions must be clearly marked and documented.
+
+No Misrepresentation – The Software may not be presented as officially endorsed by DragonLabs or Hopingboyz without separate written permission.
+
+Disclaimer & Liability:
+🔴 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+🔴 IN NO EVENT SHALL THE AUTHORS, DRAGONLABS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES (INCLUDING LOST PROFITS OR DATA), OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE.
+
+Additional Clauses (Optional/Modular):
+
+Patent Grant – Users receive an implicit license to any patents held by the author.
+
+Trademark Protection – "DragonLabs" and related marks may not be used without permission.
+
+Ethical Use – The Software may not be used for illegal, harmful, or unethical purposes.
