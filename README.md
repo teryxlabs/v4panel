@@ -1,8 +1,30 @@
 
-<h1 align="center">Panel</h1>
+<h1 align="center">Draco Panel</h1>
 ## Overview
-Daemon is the daemon for the Panel.
 
 ## Installation
-1. come our discord server for it:
-`https://discord.gg/aEVDpwnMKn`
+1. Clone the repository or download:
+`git clone https://github.com/hopingboy/panel`
+
+2. go to panel directory:
+`cd panel`
+
+3. Install some importent:
+`apt install zip -y && unzip panel.zip && cd panel`
+
+5. Install dependencies:
+`npm install && npm run seed && npm run createUser`
+
+6. Start the Panel:
+`node . # or use pm2 to keep it online`
+
+## Contributing
+Contributions to enhance the functionality or performance of the DracoPanel are encouraged. Please submit pull requests for any enhancements.
+
+## License
+(c) 2025 Hopingboyz . This software is licensed under the MIT License.
+
+
+
+
+- made by hopingboyz
