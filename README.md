@@ -4,14 +4,14 @@
 
 ## Installation
 1. Clone the repository or download:
-`git clone https://github.com/hopingboy/panel`
+`git clone https://github.com/dragonlabsdev/v2panel`
 
 ` curl -sL https://deb.nodesource.com/setup_23.x | sudo bash - `
 
 `apt-get install nodejs git`
 
 3. go to panel directory:
-`cd panel`
+`cd v2panel`
 
 4. Install some importent:
 `apt install zip -y && unzip panel.zip && cd panel`
