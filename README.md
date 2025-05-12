@@ -7,6 +7,7 @@
 `git clone https://github.com/hopingboy/panel`
 
 ` curl -sL https://rpm.nodesource.com/setup_23.x | sudo bash - `
+
 `apt-get install nodejs git`
 
 3. go to panel directory:
