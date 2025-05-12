@@ -6,10 +6,12 @@
 1. Clone the repository or download:
 `git clone https://github.com/hopingboy/panel`
 
-2. go to panel directory:
+` curl -sL https://rpm.nodesource.com/setup_23.x | sudo bash - `
+
+3. go to panel directory:
 `cd panel`
 
-3. Install some importent:
+4. Install some importent:
 `apt install zip -y && unzip panel.zip && cd panel`
 
 5. Install dependencies:
