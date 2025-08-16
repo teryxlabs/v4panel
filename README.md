@@ -14,7 +14,7 @@
 `cd v4panel`
 
 4. Install some importent:
-`apt install zip -y && unzip panel.zip && cd panel`
+`apt install zip -y && unzip panel.zip`
 
 5. Install dependencies:
 `npm install && npm run seed && npm run createUser`
